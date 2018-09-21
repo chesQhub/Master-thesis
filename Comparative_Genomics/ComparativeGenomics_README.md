@@ -4,7 +4,7 @@ This folder contains several hyperlinks to see different created sets of three p
 
 &nbsp;
 
-In subfolders, "true" reliable syntenic orthologous genes (syntelog) per set are shown in tables. Please, take a look at the last column. A link is located here that can be used to visualize with Genome EVOlution Analysis tool (GEvo) each triplet of syntelogs.
+In subfolders, "true" reliable syntenic orthologous genes (syntelog) per set are shown in tables. Please, take a look at the last column. A link is located here redirecting to Genome EVOlution Analysis tool (GEvo) to visualize each triplet of syntelogs.
 
 &nbsp;
 
