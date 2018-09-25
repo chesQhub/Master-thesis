@@ -28,7 +28,7 @@ sets were duplicated.
   * Sets with *Prunus persica*_NCBI-Refseq
     * [*Prunus*](https://genomevolution.org/coge/SynMap3D.pl?x_gid=36122;y_gid=36008;z_gid=36009;min_syn=1;min_len=10000;sort=name;cluster=0.50,10)
     * [*Rosaceae*](https://genomevolution.org/coge/SynMap3D.pl?x_gid=36122;y_gid=36009;z_gid=36267;min_syn=1;min_len=10000;sort=name;cluster=0.50,10)
-    * [*Prunus-Arabidopsis*](https://genomevolution.org/coge/SynMap3D.pl?x_gid=36122;y_gid=36009;z_gid=36264;min_syn=1;min_len=10000;sort=name;cluster=0.50,10;wid=167972)
+    * [*Prunus-Arabidopsis*](https://genomevolution.org/coge/SynMap3D.pl?x_gid=36122;y_gid=36009;z_gid=36264;min_syn=1;min_len=10000;sort=name;cluster=0.50,10)
     * [*Rosaceae-Arabidopsis*](https://genomevolution.org/coge/SynMap3D.pl?x_gid=36122;y_gid=36267;z_gid=36264;min_syn=1;min_len=10000;sort=name;cluster=0.50,10)
  
  &nbsp;
